@@ -21,6 +21,8 @@ Projects & Demo Links:
 
 - [Golang + WebAssembly](https://github.com/josue/golang-wasm) - Demonstrates a simple Golang program running on the browser using WebAssembly.
 
+- [Golang + SMTP](https://github.com/josue/golang-wasm) - Demonstrates a simple Golang SMTP Email Sender using Gmail.
+
 - [Audible](https://gist.github.com/josue/62379312c6c9828291b9341714199108) - Golang book reader as it prints the words it speaks (using MacOS "say" command)
 
 - [Fake Profiles](https://gist.github.com/josue/d5271bdfb36e1fad8e07b6ad9cd97629) - Fetch random user profiles and output their emails.
