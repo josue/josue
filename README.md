@@ -1,13 +1,20 @@
-#### Full-Stack & DevOps Automation Engineer
+#### Full-Stack & DevOps Automation Engineer 
 
 _Focused on backend engineering, distributed systems._
 
 Preferred Tech:
 
-- Golang, NodeJS, Python
-- JavaScript, React, Vue
-- Kubernetes, Terraform, Jenkins
-- AWS, GCP
+| Languages  | Frameworks | Tools | Cloud |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  | <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> | <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  | <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> | <img src="https://img.shields.io/badge/terraform%20-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white"/> | <img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> | <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> | <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> |
+
+Certifications:
+
+<a href="https://www.youracclaim.com/users/josue/badges"><img width=120 src="https://josue.io/aws_cert_soa_trans.png"></a>
+
+----
 
 Projects & Demo Links:
 
@@ -29,4 +36,6 @@ Projects & Demo Links:
 
 - [Go + Prometheus](https://github.com/josue/golang-prometheus) - Sample Golang API with Prometheus Grafana dashboard.
 
-For details on skills & experiences, see more [here](http://josue.io/).
+----
+
+<a href="https://josuerodriguez.com"><img src="https://img.shields.io/badge/Personal-%23224499.svg?&style=for-the-badge&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/josuerodriguez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
