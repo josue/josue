@@ -38,4 +38,6 @@ Projects & Demo Links:
 
 ----
 
+Learn more about my experiences via my site or social links:
+
 <a href="https://josuerodriguez.com"><img src="https://img.shields.io/badge/Personal-%23224499.svg?&style=for-the-badge&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/josuerodriguez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
