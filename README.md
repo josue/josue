@@ -1,4 +1,4 @@
-#### Full-Stack & DevOps Automation Engineer 
+### Full-Stack & DevOps Automation Engineer 
 
 _Focused on backend engineering, distributed systems._
 
