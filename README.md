@@ -18,8 +18,6 @@ Certifications:
 
 Projects & Demo Links:
 
-- [Mock Starbucks](https://github.com/josue/mock-starbucks) - Mock Starbucks barista placing coffee orders using Golang + Kafka.
-
 - [Go + AWS Deployment](https://github.com/josue/demo-go-api-aws-asg) - A deployable Go API with an automated setup process for an AWS Auto-Scaling Group (high-availability and performance), via an ELB endpoint.
 
 - [Kubernetes Alpha Deployments](https://github.com/josue/k8s-alpha-deployments) - Generate alpha URL deployments on Kubernetes using Helm + Ambassador.
